@@ -19,7 +19,7 @@ $ npm run start:prod
 ```
 
 ## Testing APIs
-Let's start our development server using npm run start:dev
+Let's start our development server using ``` npm run start:dev ```
 
 ## Get all posts
 Let's make a GET request to http://localhost:3000/posts. The result should be a 200 OK success code with an empty array.
